@@ -1,6 +1,6 @@
 ### Hello World !
 Perkenalkan nama saya **Mahisa Ardana Wijaya** :wave:.<br>\
-Saya seorang mahasiswa jurusan Informatika di **UPN Veteran Jawa Timur** yang sekarang menempuh semester 5.\
+Saya seorang mahasiswa jurusan Informatika di **UPN Veteran Jawa Timur** yang sekarang menempuh semester 6.\
 Harapan terbesar saya agar dimudahkan segala urusan di dunia dan akhirat, **Amin** :palms_up_together:.
 
 <!--
