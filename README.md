@@ -6,6 +6,8 @@ My greatest hope is for ease in all affairs in this world and the hereafter, **A
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mahisaardana)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mahisa_ard)
 
+✨🚀 Let's connect and create something awesome together! 🚀✨
+
 ## Skills ✨
 - **UI/UX Design:** Intermediate in Figma, I bring creativity and functionality together to craft unique digital interface experiences.
 - **Programming:** one third in C++, I've cultivated coding skills to create simple yet meaningful solutions.
@@ -23,8 +25,6 @@ My greatest hope is for ease in all affairs in this world and the hereafter, **A
 - ⚡ &nbsp; Passionate about leveraging technology to solve real-world problems and create meaningful experiences.
 - 🏫 &nbsp; Currently pursuing continuous learning and skill enhancement, with a keen interest in AI, Game Development, and Multi Platform System.
 - 📫 &nbsp; Reach me out at mahisaardanaw@gmail.com for collaborations, discussions, or just to say hello!
-
-✨🚀 Let's connect and create something awesome together! 🚀✨
 
 <details>
   <summary><b>🌱 Github Stats</b></summary>
