@@ -1,6 +1,6 @@
 ### Hello World!
 Allow me to introduce myself, I'm **Mahisa Ardana Wijaya** :wave:.<br>\
-I am a computer science student at **UPN Veteran East Java**, currently in my 7th semester.\
+I am a computer science student at **UPN Veteran Jawa Timur**, currently in my 7th semester.\
 My greatest hope is for ease in all affairs in this world and the hereafter, **Amin** :palms_up_together:.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mahisaardana)
