@@ -26,13 +26,13 @@ My greatest hope is for ease in all affairs in this world and the hereafter, **A
 
 ✨🚀 Let's connect and create something awesome together! 🚀✨
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/mahisaard">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahisaard&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahisaard&layout=compact&langs_count=8&theme=green"/>
-</a>
-</p>
+<details>
+  <summary><b>🌱 Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahisaard&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahisaard&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 <!--
 **mahisaard/mahisaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
