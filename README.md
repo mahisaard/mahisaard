@@ -10,11 +10,13 @@ My greatest hope is for ease in all affairs in this world and the hereafter, **A
 - **UI/UX Design:** Intermediate in Figma, I bring creativity and functionality together to craft unique digital interface experiences.
 - **Programming:** one third in C++, I've cultivated coding skills to create simple yet meaningful solutions.
 - **Web Development:** Explored CodeIgniter 3 to develop dynamic and responsive web applications.
+- **Game Development:** Proficient in crafting captivating narratives and storylines to enhance the gaming experience.
 
 ## Current Explorations 🚀
 - **Flutter (Multi-Platform):** Currently diving into the world of Flutter to create cross-platform system.
 - **Machine Learning (Data Analysis):** Exploring the fascinating realm of machine learning for insightful data analysis.
 - **Microcontroller (Arduino):** Harnessing the power of microcontrollers, particularly Arduino, for hands-on projects.
+- **Game Development:** Actively engaging in creative endeavors with Game Maker to design captivating games and honing skills in Unity for immersive game development experiences.
 
 ## Personal Stuff 😄
 - 💬 &nbsp; Ask me about anything! Whether it's coding, design, or just a friendly chat, I'm all ears.
