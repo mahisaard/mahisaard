@@ -24,7 +24,7 @@ My greatest hope is for ease in all affairs in this world and the hereafter, **A
 - 🏫 &nbsp; Currently pursuing continuous learning and skill enhancement, with a keen interest in AI, Game Development, and Multi Platform System.
 - 📫 &nbsp; Reach me out at mahisaardanaw@gmail.com for collaborations, discussions, or just to say hello!
 
-🚀✨ Let's connect and create something awesome together! 🚀✨
+✨🚀 Let's connect and create something awesome together! 🚀✨
 <!--
 **mahisaard/mahisaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
