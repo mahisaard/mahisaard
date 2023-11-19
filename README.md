@@ -25,6 +25,15 @@ My greatest hope is for ease in all affairs in this world and the hereafter, **A
 - 📫 &nbsp; Reach me out at mahisaardanaw@gmail.com for collaborations, discussions, or just to say hello!
 
 ✨🚀 Let's connect and create something awesome together! 🚀✨
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dpandika">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahisaard&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahisaard&layout=compact&langs_count=8&theme=green"/>
+</a>
+</p>
+
 <!--
 **mahisaard/mahisaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
