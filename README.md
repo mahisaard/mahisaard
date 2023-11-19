@@ -1,7 +1,7 @@
-### Hello World !
-Perkenalkan nama saya **Mahisa Ardana Wijaya** :wave:.<br>\
-Saya seorang mahasiswa jurusan Informatika di **UPN Veteran Jawa Timur** yang sekarang menempuh semester 7.\
-Harapan terbesar saya agar dimudahkan segala urusan di dunia dan akhirat, **Amin** :palms_up_together:.
+### Hello World!
+Allow me to introduce myself, I'm **Mahisa Ardana Wijaya** :wave:.<br>\
+I am a computer science student at **UPN Veteran East Java**, currently in my 7th semester.\
+My greatest hope is for ease in all affairs in this world and the hereafter, **Amin** :palms_up_together:.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mahisaardana)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mahisa_ard)
@@ -12,15 +12,17 @@ Harapan terbesar saya agar dimudahkan segala urusan di dunia dan akhirat, **Amin
 - **Web Development:** Explored CodeIgniter 3 to develop dynamic and responsive web applications.
 
 ## Current Explorations 🚀
-- **Flutter (Multi-Platform):** Currently diving into the world of Flutter to create cross-platform application.
+- **Flutter (Multi-Platform):** Currently diving into the world of Flutter to create cross-platform system.
 - **Machine Learning (Data Analysis):** Exploring the fascinating realm of machine learning for insightful data analysis.
 - **Microcontroller (Arduino):** Harnessing the power of microcontrollers, particularly Arduino, for hands-on projects.
 
-Let's build something amazing together! 💻✨
-- 💬 &nbsp; 
-- 🏫 &nbsp; Having .
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+## Personal Stuff 😄
+- 💬 &nbsp; Ask me about anything! Whether it's coding, design, or just a friendly chat, I'm all ears.
+- ⚡ &nbsp; Passionate about leveraging technology to solve real-world problems and create meaningful experiences.
+- 🏫 &nbsp; Currently pursuing continuous learning and skill enhancement, with a keen interest in staying updated with the latest tech trends.
+- 📫 &nbsp; Reach me out at mahisaardanaw@gmail.com for collaborations, discussions, or just to say hello!
 
+Let's connect and create something awesome together! 🚀✨
 <!--
 **mahisaard/mahisaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
